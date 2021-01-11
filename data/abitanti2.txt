@@ -1,0 +1,106 @@
+Torino	2269120
+Vercelli	172307
+Novara	369595
+Cuneo	588559
+Asti	215884
+Alessandria	424174
+Biella	177067
+Verbano-Cusio-Ossola	159159
+Valle d'Aosta	126202
+Imperia	214305
+Savona	277810
+Genova	844957
+La Spezia	219909
+Varese	890528
+Como	599301
+Sondrio	181403
+Milano	3234658
+Bergamo	1111035
+Brescia	1262402
+Pavia	545810
+Cremona	358512
+Mantova		411762
+Lecco	339384
+Lodi	229765
+Monza e della Brianza	871698
+Bolzano / Bozen	527750
+Trento	539898
+Verona	922821
+Vicenza	863204
+Belluno	204900
+Treviso	887420
+Venezia	853552
+Padova	936740
+Rovigo	236400
+Udine	529381
+Gorizia	139439
+Trieste	234638
+Pordenone312080
+Piacenza	286781
+Parma	450256
+Reggio nell'Emilia	532575
+Modena	701896
+Bologna	1011291
+Ferrara	346975
+Ravenna	391345
+Forlì-Cesena	394185
+Rimini	337325
+Massa-Carrara	195849
+Lucca	389295
+Pistoia	291892
+Firenze	1013260
+Livorno	336215
+Pisa	420752
+Arezzo	343449
+Siena	268010
+Grosseto	222175
+Prato	256071
+Perugia	657786
+Terni	226854
+Pesaro e Urbino	360125
+Ancona	472603
+Macerata	316310
+Ascoli Piceno	208377
+Fermo	174338
+Viterbo	318205
+Rieti	156554
+Roma	4355725
+Latina	575577
+Frosinone490632
+L'Aquila300404
+Teramo	308284
+Pescara	319388
+Chieti	387120
+Campobasso	223256
+Isernia	85237
+Caserta	923445
+Benevento	279127
+Napoli	3101002
+Avellino	421523
+Salerno	1101763
+Foggia	625311
+Bari	1257520
+Taranto	580319
+Brindisi	394977
+Lecce	798891
+Barletta-Andria-Trani	391224
+Potenza	368251
+Matera	198867
+Cosenza	708702
+Catanzaro	360823
+Reggio di Calabria	551212
+Crotone	175061
+Vibo Valentia	160889
+Trapani	432398
+Palermo	1260193
+Messina	631297
+Agrigento438276
+Caltanissetta	266427
+Enna	166259
+Catania	1109888
+Ragusa	321370
+Siracusa	400881
+Sassari	492642
+Nuoro	210531
+Cagliari	431955
+Oristano	159218
