@@ -1,0 +1,43 @@
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Bad guy
+        Always betray.
+Player 2 (P2): Mainly nice
+        Mainly nice.
+Player 3 (P3): Mainly bad
+        Mainly bad.
+Player 4 (P4): Tit for Tat
+        Tit for tat.
+Player 5 (P5): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+Player 6 (P6): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1     P2     P3     P4     P5     P6
+vs. P0 :      0    400    322    327    250    250    250
+vs. P1 :      0      0     48     52     99     99     98
+vs. P2 :    129    253      0    185    200    249    130
+vs. P3 :    121    242    166      0    196    245    124
+vs. P4 :    250    102    204    198      0    250    250
+vs. P5 :    250    101     61     53    250      0    250
+vs. P6 :    250    104    321    316    250    250      0
+TOTAL  :   1000   1202   1122   1131   1245   1343   1102
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P5): 191        points with Grudger                                 
+(P4): 177        points with Tit for Tat                             
+(P1): 171        points with Bad guy                                 
+(P3): 161        points with Mainly bad                              
+(P2): 160        points with Mainly nice                             
+(P6): 157        points with Tit for 2 Tats                          
+(P0): 142        points with Nice guy                                
