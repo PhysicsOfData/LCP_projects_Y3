@@ -1,0 +1,624 @@
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Nice guy
+        Always co-operate.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Nice guy                                
+(P1): 125        points with Nice guy                                
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Bad guy
+        Always betray.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    400
+vs. P1 :      0      0
+TOTAL  :      0    400
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P1): 200        points with Bad guy                                 
+(P0): 0          points with Nice guy                                
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Mainly nice
+        Mainly nice.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    323
+vs. P1 :    128      0
+TOTAL  :    128    323
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P1): 161        points with Mainly nice                             
+(P0): 64         points with Nice guy                                
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    327
+vs. P1 :    120      0
+TOTAL  :    120    327
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P1): 163        points with Mainly bad                              
+(P0): 60         points with Nice guy                                
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Nice guy                                
+(P1): 125        points with Tit for Tat                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Nice guy                                
+(P1): 125        points with Grudger                                 
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Nice guy
+        Always co-operate.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Nice guy                                
+(P1): 125        points with Tit for 2 Tats                          
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Bad guy
+        Always betray.
+Player 1 (P1): Bad guy
+        Always betray.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    100
+vs. P1 :    100      0
+TOTAL  :    100    100
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 50         points with Bad guy                                 
+(P1): 50         points with Bad guy                                 
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Bad guy
+        Always betray.
+Player 1 (P1): Mainly nice
+        Mainly nice.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0     48
+vs. P1 :    253      0
+TOTAL  :    253     48
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 126        points with Bad guy                                 
+(P1): 24         points with Mainly nice                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Bad guy
+        Always betray.
+Player 1 (P1): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0     51
+vs. P1 :    245      0
+TOTAL  :    245     51
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 122        points with Bad guy                                 
+(P1): 25         points with Mainly bad                              
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Bad guy
+        Always betray.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0     99
+vs. P1 :    102      0
+TOTAL  :    102     99
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 51         points with Bad guy                                 
+(P1): 49         points with Tit for Tat                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Bad guy
+        Always betray.
+Player 1 (P1): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0     99
+vs. P1 :    102      0
+TOTAL  :    102     99
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 51         points with Bad guy                                 
+(P1): 49         points with Grudger                                 
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Bad guy
+        Always betray.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0     98
+vs. P1 :    103      0
+TOTAL  :    103     98
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 51         points with Bad guy                                 
+(P1): 49         points with Tit for 2 Tats                          
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly nice
+        Mainly nice.
+Player 1 (P1): Mainly nice
+        Mainly nice.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    176
+vs. P1 :    176      0
+TOTAL  :    176    176
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 88         points with Mainly nice                             
+(P1): 88         points with Mainly nice                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly nice
+        Mainly nice.
+Player 1 (P1): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    184
+vs. P1 :    167      0
+TOTAL  :    167    184
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P1): 92         points with Mainly bad                              
+(P0): 83         points with Mainly nice                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly nice
+        Mainly nice.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    201
+vs. P1 :    201      0
+TOTAL  :    201    201
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 100        points with Mainly nice                             
+(P1): 100        points with Tit for Tat                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly nice
+        Mainly nice.
+Player 1 (P1): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    249
+vs. P1 :     60      0
+TOTAL  :     60    249
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P1): 124        points with Grudger                                 
+(P0): 30         points with Mainly nice                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly nice
+        Mainly nice.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    129
+vs. P1 :    322      0
+TOTAL  :    322    129
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 161        points with Mainly nice                             
+(P1): 64         points with Tit for 2 Tats                          
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly bad
+        Mainly bad.
+Player 1 (P1): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    170
+vs. P1 :    170      0
+TOTAL  :    170    170
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 85         points with Mainly bad                              
+(P1): 85         points with Mainly bad                              
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly bad
+        Mainly bad.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    196
+vs. P1 :    196      0
+TOTAL  :    196    196
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 98         points with Mainly bad                              
+(P1): 98         points with Tit for Tat                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly bad
+        Mainly bad.
+Player 1 (P1): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    244
+vs. P1 :     53      0
+TOTAL  :     53    244
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P1): 122        points with Grudger                                 
+(P0): 26         points with Mainly bad                              
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Mainly bad
+        Mainly bad.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    123
+vs. P1 :    317      0
+TOTAL  :    317    123
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 158        points with Mainly bad                              
+(P1): 61         points with Tit for 2 Tats                          
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Tit for Tat
+        Tit for tat.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Tit for Tat                             
+(P1): 125        points with Tit for Tat                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Tit for Tat
+        Tit for tat.
+Player 1 (P1): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Tit for Tat                             
+(P1): 125        points with Grudger                                 
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Tit for Tat
+        Tit for tat.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Tit for Tat                             
+(P1): 125        points with Tit for 2 Tats                          
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+Player 1 (P1): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Grudger                                 
+(P1): 125        points with Grudger                                 
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Grudger                                 
+(P1): 125        points with Tit for 2 Tats                          
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Tit for 2 Tats
+        Tit for 2 tats.
+Player 1 (P1): Tit for 2 Tats
+        Tit for 2 tats.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1
+vs. P0 :      0    250
+vs. P1 :    250      0
+TOTAL  :    250    250
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 125        points with Tit for 2 Tats                          
+(P1): 125        points with Tit for 2 Tats                          
