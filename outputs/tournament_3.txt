@@ -1,0 +1,93 @@
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+Player 2 (P2): Mainly nice
+        Mainly nice.
+Player 3 (P3): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1     P2     P3
+vs. P0 :      0    250     62     52
+vs. P1 :    250      0    201    197
+vs. P2 :    249    201      0    184
+vs. P3 :    245    194    166      0
+TOTAL  :    744    645    429    433
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 186        points with Grudger                                 
+(P1): 161        points with Tit for Tat                             
+(P3): 108        points with Mainly bad                              
+(P2): 107        points with Mainly nice                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+Player 2 (P2): Mainly nice
+        Mainly nice.
+Player 3 (P3): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1     P2     P3
+vs. P0 :      0    250     59     54
+vs. P1 :    250      0    204    195
+vs. P2 :    248    200      0    183
+vs. P3 :    242    195    167      0
+TOTAL  :    740    645    430    432
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 185        points with Grudger                                 
+(P1): 161        points with Tit for Tat                             
+(P3): 108        points with Mainly bad                              
+(P2): 107        points with Mainly nice                             
+--------------------------------------------------------------------------------
+Section 0 - Line up
+--------------------------------------------------------------------------------
+Player 0 (P0): Grudger
+        Starts with cooperation and once if the opponent betrays then always gru
+        dger betrays irrespective of the opponent move.
+Player 1 (P1): Tit for Tat
+        Tit for tat.
+Player 2 (P2): Mainly nice
+        Mainly nice.
+Player 3 (P3): Mainly bad
+        Mainly bad.
+--------------------------------------------------------------------------------
+Section 1 - Player vs. Player
+--------------------------------------------------------------------------------
+Each column shows pts/round earned against each other player:
+             P0     P1     P2     P3
+vs. P0 :      0    250     57     54
+vs. P1 :    250      0    202    196
+vs. P2 :    248    202      0    181
+vs. P3 :    242    196    169      0
+TOTAL  :    740    648    428    431
+--------------------------------------------------------------------------------
+Section 2 - Leaderboard
+--------------------------------------------------------------------------------
+Average points per round:
+(P#):  Score      with strategy name
+(P0): 185        points with Grudger                                 
+(P1): 162        points with Tit for Tat                             
+(P2): 107        points with Mainly nice                             
+(P3): 107        points with Mainly bad                              
