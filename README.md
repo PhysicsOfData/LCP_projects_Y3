@@ -6,7 +6,7 @@ We have four algorithms: Bellman_Ford, Dijkstra, Floyd_Warshal, Johnson.
 
 We did an optimization based on the properties of the algorithms.
 
-You can find all the codes in the file High_Level_Programming_Group10.ipynb
+You can find all the codes in the file HLP_Project_Group10.ipynb
 
 ### The libraries which we used for this project are:
   NumPy
