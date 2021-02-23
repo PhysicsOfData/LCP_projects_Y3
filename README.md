@@ -9,13 +9,13 @@ We did an optimization based on the properties of the algorithms.
 You can find all the codes in the file High_Level_Programming_Group10.ipynb
 
 ### The libraries which we used for this project are:
-NumPy
-networkx
-matplotlib
-time
-math
-queue
-scipy
+  NumPy
+  networkx
+  matplotlib
+  time
+  math
+  queue
+  scipy
 
 NetworkX is a Python library for studying graphs and networks.
 
