@@ -21,7 +21,7 @@ NetworkX is a Python library for studying graphs and networks.
 
 
 Dijkstra algorithm only can have the results on the networks with positive delays, so we used it just for the networks with positive delays. This algorithm is the fastest algorithm among the algorithms for the networks with positive delays.
-https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif
+![Dijkstra]https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif
 
 Bellman_Ford algorithm only can have the results on the networks with both positive and negative delays, but not on networks with negative cycles. After the Dijkstra algorithm, Bellman_Ford is the fastest algorithm on the networks without negative cycles.
 
