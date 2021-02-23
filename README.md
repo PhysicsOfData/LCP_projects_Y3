@@ -25,7 +25,8 @@ Dijkstra algorithm only can have the results on the networks with positive delay
 ![face](https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Dijkstra_Animation.gif/220px-Dijkstra_Animation.gif)
 
 Bellman_Ford algorithm only can have the results on the networks with both positive and negative delays, but not on networks with negative cycles. After the Dijkstra algorithm, Bellman_Ford is the fastest algorithm on the networks without negative cycles.
-https://media.geeksforgeeks.org/wp-content/uploads/bellmanford3.png
+![face](https://media.geeksforgeeks.org/wp-content/uploads/bellmanford3.png)
+
 
 Johnson's algorithm works for all networks with every delay value, but it is slower than Dijkstra and Bellman_ford for positive and negative delays networks.
 
