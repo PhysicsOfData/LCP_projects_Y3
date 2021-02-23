@@ -29,6 +29,9 @@ Bellman_Ford algorithm only can have the results on the networks with both posit
 
 
 Johnson's algorithm works for all networks with every delay value, but it is slower than Dijkstra and Bellman_ford for positive and negative delays networks.
+![face](https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/Johnson%27s_algorithm.svg/1280px-Johnson%27s_algorithm.svg.png)
+
 
 Floyd_Warshal is the slowest algorithm among the algorithms. Also, it is like Bellman_Ford, so it does not work with the networks with negative cycles.
 
+![face](https://upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Floyd-Warshall_example.svg/1280px-Floyd-Warshall_example.svg.png)
