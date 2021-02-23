@@ -1,20 +1,30 @@
-# Final Projects for Laboratory of Computational Physics
+# Delay Tolerant Networks
+## Group 10
 
-In each of the branches of this repo you find all the necessary to complete your final project.
-In particular the file Project.ipynb describes the projects and provides guidance to its development.
-Other files could be present if needed.
+In this project, we imported the algorithms for finding the shortest path between the two furthest nodes in a network.
+We have four algorithms: Bellman_Ford, Dijkstra, Floyd_Warshal, Johnson.
 
-Each branch is named after the group of students a given project is assigned to.
-The groups compositions are listed [here](https://docs.google.com/spreadsheets/d/1UgRLj6IvLYC-3LQBT1lKkr1SPVbn4hbBdVuWV0Ky6nM/edit#gid=0).
+We did an optimization based on the properties of the algorithms.
 
-Students are supposed to work together to produce a short report on the assigned task, which will have to be committed to the group branch together with the code developed to achieve the results. The preferred format for the latter is a jupyter notebook, with the proper description, the code implemented for the purpose and the actual results (plots, tables, etc.). The notebook has to be delivered with all the cells executed.
+You can find all the codes in the file High_Level_Programming_Group10.ipynb
 
-### Computing Resources
+### The libraries which we used for this project are:
+NumPy
+networkx
+matplotlib
+time
+math
+queue
+scipy
 
-A Virtual Machine within [CloudVeneto](http://cloudveneto.it/) can be created for each group. Note that, by default, they are not. For some projects though, large datasets are needed, in those cases a VM has been created to store those files. Refer to ClouldInstructions.md for the steps to take in order to use those resources.
+NetworkX is a Python library for studying graphs and networks.
 
-Alternatively, students can use [colab](https://colab.research.google.com/) (for which though no instructions are provided here).
 
-### Dates for the exams
+Dijkstra algorithm only can have the results on the networks with positive delays, so we used it just for the networks with positive delays. This algorithm is the fastest algorithm among the algorithms for the networks with positive delays.
 
-Exams will take place on the dates officially scheduled by the university. It is however possible to enable extra dates whenever during the year with the condition that at least 4 groups at the time have to participate to the exam.
+Bellman_Ford algorithm only can have the results on the networks with both positive and negative delays, but not on networks with negative cycles. After the Dijkstra algorithm, Bellman_Ford is the fastest algorithm on the networks without negative cycles.
+
+Johnson's algorithm works for all networks with every delay value, but it is slower than Dijkstra and Bellman_ford for positive and negative delays networks.
+
+Floyd_Warshal is the slowest algorithm among the algorithms. Also, it is like Bellman_Ford, so it does not work with the networks with negative cycles.
+
